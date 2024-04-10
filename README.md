@@ -12,6 +12,7 @@ Recently, I reached the milestone of visiting 21 Brazilian states.
 I always seize the opportunity to participate in teams related to various areas of information and technologies, such as: Data Analysis, Business Intelligence, Social Engineering, Java, Python, SQL, Linux, Networks, Cybersecurity (Blue and Red team), among others.
 
 Passionate about technology, I am the kind of person who is relentless in understanding things and their functionalities.
+Whenever possible, I intend to document my projects here.
 
 I am always available to listen to or talk about computing, whether it's a question or suggestion. Thank you for visiting my profile!
 </p>
