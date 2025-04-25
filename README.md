@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="[iago_van_gogh.png](https://github.com/ISDOOS/image_for_repo/blob/main/iago_van_gogh.png)" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
+<img src="https://github.com/ISDOOS/image_for_repo/blob/main/iago_van_gogh.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Me">
 
 <p align="left">
 Hello! My name is Iago Do Ó and I have been working with business information and data since 2013, where I've built a solid foundation, both academically and professionally. 
